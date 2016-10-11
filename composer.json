@@ -4,6 +4,7 @@
     "type": "library",
     "license": "MIT",
     "version": "0.10",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "davi",
